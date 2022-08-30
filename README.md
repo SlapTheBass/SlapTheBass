@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlapTheBass
 - 👀 I’m interested in hitech, programming, mechatronics, electronics, automation, robotics, gaming and music
-- 🌱 I’m currently learning c/c++, python, machine learning, vhdl, fpga
+- 🌱 I’m currently learning c/c++, python, machine learning
 - 📫 How to reach me: e-mail -> kozak.mateusz01@gmail.com
 
 <!---
